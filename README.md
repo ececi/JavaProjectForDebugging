@@ -12,5 +12,6 @@ Debugging with IntelliJ 2/3 [Software Development Engineer in Test Article Serie
 https://kicchi.medium.com/debugging-with-intellij-2-3-software-development-engineer-in-test-article-series-part-12-82fa4b7a9134
 
 
-
 Debugging with IntelliJ 3/3 [Software Development Engineer in Test Article Series Part 13]
+
+https://kicchi.medium.com/debugging-with-intellij-3-3-software-development-engineer-in-test-article-series-part-13-bb053422d8ab
